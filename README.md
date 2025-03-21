@@ -66,10 +66,8 @@ plt.show()
 ```
 
 ### OUTPUT:
-![10 1](https://github.com/shaikSameerbasha5404/TSA_EXP10/assets/118707756/681feffd-149c-4841-aba8-7c25fb1edc06)
+![image](https://github.com/user-attachments/assets/4c75c25d-2f15-4b20-be0b-5e5debeec4af)
 
-
-![10 2](https://github.com/shaikSameerbasha5404/TSA_EXP10/assets/118707756/0a74ec6b-3682-48e4-aa3c-eb6a6143c1e3)
 
 
 ![10 3](https://github.com/shaikSameerbasha5404/TSA_EXP10/assets/118707756/4cf8fba0-4c1b-458b-abf3-499794ec31b9)
