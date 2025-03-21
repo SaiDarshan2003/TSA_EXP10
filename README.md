@@ -66,10 +66,7 @@ plt.show()
 ```
 
 ### OUTPUT:
-![image](https://github.com/user-attachments/assets/4c75c25d-2f15-4b20-be0b-5e5debeec4af)
-
-
-![image](https://github.com/user-attachments/assets/5a584b22-9d15-463f-9a7a-f42aba2eaef5)
+![image](https://github.com/user-attachments/assets/be81d70f-7a53-4c8a-89e8-774917d5e9da)
 
 
 ### RESULT:
