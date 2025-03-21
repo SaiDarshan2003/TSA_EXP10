@@ -69,11 +69,7 @@ plt.show()
 ![image](https://github.com/user-attachments/assets/4c75c25d-2f15-4b20-be0b-5e5debeec4af)
 
 
-
-![10 3](https://github.com/shaikSameerbasha5404/TSA_EXP10/assets/118707756/4cf8fba0-4c1b-458b-abf3-499794ec31b9)
-
-
-![10 4](https://github.com/shaikSameerbasha5404/TSA_EXP10/assets/118707756/597d7c01-f0a8-4877-85dc-8797db59aaa9)
+![image](https://github.com/user-attachments/assets/5a584b22-9d15-463f-9a7a-f42aba2eaef5)
 
 
 ### RESULT:
